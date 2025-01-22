@@ -1,4 +1,4 @@
-# bara-byg
+# bara-app
 
 ## Project setup
 ```
